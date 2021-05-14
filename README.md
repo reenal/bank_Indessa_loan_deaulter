@@ -8,3 +8,4 @@ After careful analysis, it was found that the majority of NPA was contributed by
 This bank uses a pool of investors to sanction their loans. For example: If any customer has applied for a loan of $20000, along with the bank, the investors perform due diligence on the requested loan application. Keep this in mind while understanding data.
 In this challenge, you will help this bank by predicting the probability that a member will defaul
 
+Dataset :https://drive.google.com/file/d/1jIUQO0POfYslbO9ru_Z3Cb5nPaEnGbv-/view?ts=609a6a92
